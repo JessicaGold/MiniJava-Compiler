@@ -12,7 +12,6 @@ examples/
 	ast/
 		(examples of AST XMLs representing Java programs)
 
-	(more examples to come for each exercise)
 
 schema/
 	ast.xsd
